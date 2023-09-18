@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Trung Le.</span> I'm a{" "}
         <span className="font-bold">software engineer</span> with{" "}
-        <span className="font-bold">more than 1 years</span> of experience. I enjoy
+        <span className="font-bold">over a year</span> of experience. I enjoy
         providing solutions via <span className="italic">sites & apps</span>. My focus is{" "}
         <span className="underline">Angular & Spring Boot</span>.
       </motion.h1>
@@ -85,7 +85,7 @@ export default function Intro() {
             setTimeOfLastClick(Date.now());
           }}
         >
-          Contact me here{" "}
+          Connect with me{" "}
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link>
 
